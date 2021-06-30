@@ -1,0 +1,216 @@
+{
+  "project_info": {
+    "project_number": "1038230111400",
+    "firebase_url": "https://cricket-exchange.firebaseio.com",
+    "project_id": "cricket-exchange",
+    "storage_bucket": "cricket-exchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038230111400:android:8d6ccf6f59357ec4",
+        "android_client_info": {
+          "package_name": "in.cricketexchange.app.cricketexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038230111400-4g2otoi2pav68su8ddp1mbrapk9vt7km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cricketexchange.app.cricketexchange",
+            "certificate_hash": "6f9e505d730a0922cab55cae561e7876b845c053"
+          }
+        },
+        {
+          "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyKgg4qtSGwHS5YDvrhfN1w7MBFKcXamk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038230111400-1sanr1kv9ho1i0n1hb78c284dl1ko232.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ParthTechDevelopers.CricketExchange.Cricket-Exchange-Widget"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038230111400:android:28a03a82640fdbd6",
+        "android_client_info": {
+          "package_name": "in.cricketexchange.cricketline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038230111400-a4eid0ovo00malk62cf6qrqls6q1vu5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cricketexchange.cricketline",
+            "certificate_hash": "70b27c4ab3d5b6d169ff683b4a9bf91e7a98dbad"
+          }
+        },
+        {
+          "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyKgg4qtSGwHS5YDvrhfN1w7MBFKcXamk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038230111400-1sanr1kv9ho1i0n1hb78c284dl1ko232.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ParthTechDevelopers.CricketExchange.Cricket-Exchange-Widget"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9910298696027392~6059088345"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038230111400:android:a4324ce0c8c5f82d",
+        "android_client_info": {
+          "package_name": "in.cricketexchange.oddsapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyKgg4qtSGwHS5YDvrhfN1w7MBFKcXamk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038230111400-1sanr1kv9ho1i0n1hb78c284dl1ko232.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ParthTechDevelopers.CricketExchange.Cricket-Exchange-Widget"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038230111400:android:e593f46f809f046e",
+        "android_client_info": {
+          "package_name": "in.cricketexchange.oddsse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyKgg4qtSGwHS5YDvrhfN1w7MBFKcXamk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038230111400-1sanr1kv9ho1i0n1hb78c284dl1ko232.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ParthTechDevelopers.CricketExchange.Cricket-Exchange-Widget"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038230111400:android:c949cd1854537415",
+        "android_client_info": {
+          "package_name": "live.cricketsalaam.pak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038230111400-rfdf1ks9ms8395dglv4bkj3l5nhhn3v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "live.cricketsalaam.pak",
+            "certificate_hash": "a1223f1a498c76e8e7385d1d65449f3892f71767"
+          }
+        },
+        {
+          "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyKgg4qtSGwHS5YDvrhfN1w7MBFKcXamk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038230111400-3qj9osv1u0konplebah0q9dk9v8f0stg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038230111400-1sanr1kv9ho1i0n1hb78c284dl1ko232.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ParthTechDevelopers.CricketExchange.Cricket-Exchange-Widget"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9600</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tabSelectedTextColor">#001524</color>
+    <color name="headingColor">#9900A0E3</color>
+    <color name="hilightedBackgroundColor">#a2000000</color>
+    <color name="upcomingColor">#ff9300</color>
+    <color name="finishedColor">#00846d</color>
+    <color name="pausedColor">#b10000</color>
+
+
+</resources>

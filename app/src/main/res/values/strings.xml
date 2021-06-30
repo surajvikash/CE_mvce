@@ -1,0 +1,23 @@
+<resources
+    tools:ignore="MissingTranslation"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Cricket Exchange</string>
+    <string name="ad_app_id" translatable="false">ca-app-pub-9910298696027392~2658977661</string>
+
+
+    //Sample ad units for testing purposes
+    <string name="test_banner_ads1" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_interstitial_ads" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="test_interstitial_video_ads" translatable="false">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="test_rewarded_video_ads" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="test_native_advanced_ads" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="test_native_advanced_video_ads" translatable="false">ca-app-pub-3940256099942544/1044960115</string>
+
+
+    <string name="home">Home</string>
+    <string name="news">News</string>
+
+
+
+</resources>
